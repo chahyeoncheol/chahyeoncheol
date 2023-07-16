@@ -7,14 +7,16 @@ I'm currently studying at SSAFY for a developer to wait.
 - 🐳 My MBTI is **ESTJ~**  
 - 🤙 This is my [Blog~](https://github.com/chahyeoncheol/)
 - 💬 Give me Question [Click~](https://github.com/chahyeoncheol/chahyeoncheol/issues)  
-- :heart_with_arrow:SNS list:
+- &#x1F498;SNS list:
 <a href="https://www.instagram.com/ch_iron11/?next=%2F#" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=ffffff"/></a>
+
 ---
 
-:별:**Tech Stack**:별:  
+&#x2B50;**Tech Stack**&#x2B50;  
+<center>
 
 ![C.Bright's github stats](https://github-readme-stats.vercel.app/api?username=chahyeoncheol&show_icons=true)
-[![C.Bright's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chahyeoncheol&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/chahyeoncheol)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chahyeoncheol&langs_count=8&layout=compact)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=chahyeoncheol&row=1&column=6&margin-w=15&no-frame=true)](https://github.com/chahyeoncheol/github-profile-trophy)
+<center/>
