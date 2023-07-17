@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome%20&fontSize=120&animation=fadeIn&fontColor=ffffff&fontAlignY=40&desc=C.bright's%20Github%20Profile&descSize=20&descAlign=70&descAlignY=57)
 **Welcome My Space!**  
 Hi there, I'm Hyeoncheol Cha, a Repulic of korea  
-I'm currently studying at SSAFY for a developer to wait.
+I'm currently studying at [SSAFY](https://ssafy.com) for a developer to wait.
 
 - 🌱 For senior developers!! [Today I learned](https://github.com/chahyeoncheol/)  
 - 🐳 My MBTI is **ESTJ~**  
